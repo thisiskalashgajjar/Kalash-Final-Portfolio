@@ -46,7 +46,6 @@ const HeroSection = () => {
               href="/KalashTejendraGajjar_Resume01.pdf"
               download="KalashTejendraGajjar_Resume01.pdf"
               className="bg-gray-800 dark:bg-gray-700 text-white px-8 py-3 rounded-full font-medium hover:bg-gray-900 dark:hover:bg-gray-600 transition-colors flex items-center"
-              target="_blank"
             >
               <Download className="w-5 h-5 mr-2" />
               Resume
