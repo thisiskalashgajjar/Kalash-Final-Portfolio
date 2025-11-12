@@ -20,7 +20,7 @@ export const projects: Project[] = [
     title: "Mental Health Analysis",
     description: "Developed a Cloud-based application using Sentiment Analysis and used LLM fallback.",
     technologies: ["AWS S3", "Python", "React", "AWS Comprehend", "AWS Lex"],
-    image: "3-Challenges-of-Mental-Health-Assessment",
+    image: "https://sapienlabs.org/wp-content/uploads/2020/01/3-Challenges-of-Mental-Health-Assessment.png",
     githubUrl: "https://github.com/yourusername/ml-pipeline"
   }
 ];
